@@ -1,2 +1,5 @@
-# js-starter
-a shot of red bull when js fatigue hits, and you just wanna write some damn code
+## Babel + Webpack Starter Repo
+
+`npm install` to install everything
+
+`npm start` to fire up webpack-dev-server
