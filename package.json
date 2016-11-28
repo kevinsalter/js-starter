@@ -4,7 +4,8 @@
   "description": "crimson taurus for js fatigue",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server",
+    "build": "webpack --config webpack.config.js"
   },
   "author": "Kevin Salter <kevinsalter.developer@gmail.com> (http://kevinsalter.me/)",
   "license": "MIT",
